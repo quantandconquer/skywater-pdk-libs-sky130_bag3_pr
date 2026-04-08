@@ -1,1 +1,34 @@
-../workspace_setup/PDK/VirtuosoOA/libs/s8phirs_10r/s8phirs_10r.layermap
+# SKY130 GDS layer mapping for BAG3++
+# Format: layer_name purpose_name gds_layer gds_purpose
+nwell    drawing   64  20
+pwell    drawing   122 16
+diff     drawing   65  20
+tap      drawing   65  44
+poly     drawing   66  20
+licon1   drawing   66  44
+li1      drawing   67  20
+mcon     drawing   67  44
+met1     drawing   68  20
+via1     drawing   68  44
+met2     drawing   69  20
+via2     drawing   69  44
+met3     drawing   70  20
+via3     drawing   70  44
+met4     drawing   71  20
+via4     drawing   71  44
+met5     drawing   72  20
+nsdm     drawing   93  44
+psdm     drawing   94  20
+lvtn     drawing   125 44
+hvtp     drawing   78  44
+prBndry  boundary  235 4
+met1     pin       68  16
+met2     pin       69  16
+met3     pin       70  16
+met4     pin       71  16
+met5     pin       72  16
+met1     label     68  5
+met2     label     69  5
+met3     label     70  5
+met4     label     71  5
+met5     label     72  5
