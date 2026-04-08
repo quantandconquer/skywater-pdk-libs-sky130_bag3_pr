@@ -22,6 +22,7 @@ inc_list:
   5: []
   6: []
   7: []
+  9: ['${BAG_TECH_CONFIG_DIR}/netlist_setup/bag_prim.cdl']
 netlist_map:
   BAG_prim:
     mim_34:
@@ -679,4 +680,4 @@ netlist_map:
       nets: []
       out_terms: []
       props: {}
-prim_files: {4: skywater130/netlist_setup/bag_prim.cdl, 5: '', 6: '', 7: skywater130/netlist_setup/bag_prim.scs}
+prim_files: {4: skywater130/netlist_setup/bag_prim.cdl, 5: '', 6: '', 7: skywater130/netlist_setup/bag_prim.scs, 9: skywater130/netlist_setup/bag_prim.cdl}
