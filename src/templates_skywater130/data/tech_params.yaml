@@ -232,7 +232,7 @@ len_min:
     md_al_list: []
 
 margins:
-  well: [40, 40]
+  well: [72, 72]  # diff/tap.8,10: nwell enc of diff/tap >= 0.18um = 36 units/side
 
 # transistor DRC rules.
 mos:
